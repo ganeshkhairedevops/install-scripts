@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script to install Docker on an EC2 instance and configure permissions
 
+
 # Update the package list
 sudo apt-get update -y
 
