@@ -15,3 +15,4 @@ sudo ./aws/install
 
 # Verify installation
 aws --version
+
