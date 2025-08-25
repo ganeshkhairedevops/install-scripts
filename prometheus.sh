@@ -1,5 +1,4 @@
 #!/bin/bash
-#this script belong to "CLOUDASEEM" YOUTUBE CHANNEL
 
 # Define Prometheus version
 PROMETHEUS_VERSION="2.51.2"
