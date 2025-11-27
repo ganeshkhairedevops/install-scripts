@@ -10,10 +10,10 @@ Each script is designed to be simple, reliable, and easy to run on Ubuntu-based 
 ## 📥 How to Use Any Script
 
 1️⃣ Give execution permission:
-```bash
+```
 chmod +x script-name.sh
 ```
 2️⃣ Run the script:
-```bash
+```
 ./script-name.sh
 ```
