@@ -11,9 +11,9 @@ Each script is designed to be simple, reliable, and easy to run on Ubuntu-based 
 
 1️⃣ Give execution permission:
 ```
-chmod +x script-name.sh`
+chmod +x script-name.sh
 ```
 2️⃣ Run the script:
 ```
-./script-name.sh`
+./script-name.sh
 ```
